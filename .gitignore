@@ -1,0 +1,5 @@
+tools/avatar_native.png
+tools/avatar_preview.png
+tools/idle_sheet.png
+__pycache__/
+*.pyc
