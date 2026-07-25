@@ -1,3 +1,5 @@
+![](camo-test.svg)
+
 <img src="assets/avatar-idle.gif" width="600" alt="Oak — Computer Engineering/Science student at De Anza College">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oak-soe-khant-350252362)
