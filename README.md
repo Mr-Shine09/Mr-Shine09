@@ -46,3 +46,13 @@ The fit judge's relevance model retrains during the session on live thumbs up/do
 ---
 
 <img src="assets/tracker.svg" width="600" alt="Contribution tracker">
+
+## camo animation test
+
+Raw (control):
+
+![raw](https://raw.githubusercontent.com/Mr-Shine09/Mr-Shine09/main/camo-test.svg)
+
+Camo-proxied (the real test):
+
+<img src="https://raw.githubusercontent.com/Mr-Shine09/Mr-Shine09/main/camo-test.svg" alt="camo test">
