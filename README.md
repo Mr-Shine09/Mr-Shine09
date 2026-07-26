@@ -1,5 +1,3 @@
-![](camo-test.svg)
-
 <img src="assets/avatar-idle.gif" width="600" alt="Oak — Computer Engineering/Science student at De Anza College">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oak-soe-khant-350252362)
@@ -47,12 +45,18 @@ The fit judge's relevance model retrains during the session on live thumbs up/do
 
 <img src="assets/tracker.svg" width="600" alt="Contribution tracker">
 
-## camo animation test
+## camo animation test v2
 
-Raw (control):
+Four techniques, one per box. Box 3 is the mechanism the tracker needs.
 
-![raw](https://raw.githubusercontent.com/Mr-Shine09/Mr-Shine09/main/camo-test.svg)
+**A — relative markdown path:**
 
-Camo-proxied (the real test):
+![camo test v2, relative](camo-test-v2.svg)
 
-<img src="https://raw.githubusercontent.com/Mr-Shine09/Mr-Shine09/main/camo-test.svg" alt="camo test">
+**B — absolute raw URL, markdown:**
+
+![camo test v2, raw absolute](https://raw.githubusercontent.com/Mr-Shine09/Mr-Shine09/main/camo-test-v2.svg)
+
+**C — absolute raw URL, `<img>` tag:**
+
+<img src="https://raw.githubusercontent.com/Mr-Shine09/Mr-Shine09/main/camo-test-v2.svg" alt="camo test v2, img tag">

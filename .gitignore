@@ -3,3 +3,4 @@ tools/avatar_preview.png
 tools/idle_sheet.png
 __pycache__/
 *.pyc
+.DS_Store
