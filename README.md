@@ -1,15 +1,23 @@
-<img src="assets/avatar-idle.gif" width="600" alt="Oak — Computer Engineering/Science student at De Anza College">
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oak-soe-khant-350252362)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oaksoekhant255@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-21262D?style=flat-square&logo=readdotcv&logoColor=white)](assets/Oak_Soe_Khant_Resume.pdf)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/oaksoekhant182209)
+![Oak's avatar](avatar-idle-v2.gif)
+
+</div>
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oak-soe-khant-350252362)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oaksoekhant255@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://github.com/Mr-Shine09/Mr-Shine09/raw/main/Oak_Soe_Khant_Resume.pdf)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/Mr-Shine09)
+
+---
 
 **4.0 GPA** · Honors Student · CIS Tutoring Assistant · VP, Competitive Programming Club
 
 ---
 
-## Featured Builds
+### Featured Builds
 
 **VisionAssist** — Wearable Assistive Navigation Device · *Infineon collaboration* · Mar–Jun 2026
 
@@ -31,32 +39,12 @@ The fit judge's relevance model retrains during the session on live thumbs up/do
 
 ---
 
-[**Huffman-Encoding-Algorithm**](https://github.com/Mr-Shine09/Huffman-Encoding-Algorithm) — C++ honors project implementing the full compression path across a Hash Table, Sorted Linked List, and Binary Tree, with an interactive web demo.
+**[Huffman-Encoding-Algorithm](https://github.com/Mr-Shine09/Huffman-Encoding-Algorithm)** — C++ honors project implementing the full compression path across a Hash Table, Sorted Linked List, and Binary Tree, with an interactive web demo.
 
 `C++` `STL`
 
 ---
 
-## Also working with
+### Also working with
 
 `Java` `JavaScript` `FastAPI` `Jinja2` `NumPy` `Pandas` `Scikit-Learn` `Git` `Uvicorn` `g++` `Clang`
-
----
-
-<img src="assets/tracker.svg" width="600" alt="Contribution tracker">
-
-## camo animation test v2
-
-Four techniques, one per box. Box 3 is the mechanism the tracker needs.
-
-**A — relative markdown path:**
-
-![camo test v2, relative](camo-test-v2.svg)
-
-**B — absolute raw URL, markdown:**
-
-![camo test v2, raw absolute](https://raw.githubusercontent.com/Mr-Shine09/Mr-Shine09/main/camo-test-v2.svg)
-
-**C — absolute raw URL, `<img>` tag:**
-
-<img src="https://raw.githubusercontent.com/Mr-Shine09/Mr-Shine09/main/camo-test-v2.svg" alt="camo test v2, img tag">
