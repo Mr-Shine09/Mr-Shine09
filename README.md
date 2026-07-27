@@ -29,7 +29,7 @@ Evaluated Infineon's XENSIV 60GHz radar for depth, determined it wouldn't ship i
 
 ---
 
-:eye-in-speech-bubble:**Lookout** — AI-Agent Event Discovery · UC Berkeley AI Hackathon · Jun 2026
+&#128065;&#xFE0F;&#x200D;&#128488;&#xFE0F; **Lookout** — AI-Agent Event Discovery · UC Berkeley AI Hackathon · Jun 2026
 
 Solo 24-hour build. A watcher that monitors the live web for opportunities described in plain English, then runs a five-agent pipeline to act on a match rather than just alerting: Scout → Fit Judge → Strategist → Drafter → Critic.
 
