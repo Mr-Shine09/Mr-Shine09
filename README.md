@@ -2,18 +2,16 @@
 
 ![Oak's avatar](avatar-idle-v2.gif)
 
-</div>
-
----
+![De Anza College — Computer Engineering/Science](https://img.shields.io/badge/De%20Anza%20College-Computer%20Engineering%2FScience-0A66C2?style=flat&labelColor=21262D)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oak-soe-khant-350252362)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oaksoekhant255@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://github.com/Mr-Shine09/Mr-Shine09/raw/main/Oak_Soe_Khant_Resume.pdf)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/oaksoekhant182209)
 
----
-
 **4.0 GPA** · Honors Student · CIS Tutoring Assistant · VP, Competitive Programming Club
+
+</div>
 
 ---
 
