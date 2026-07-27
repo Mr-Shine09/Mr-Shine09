@@ -1,6 +1,6 @@
 <div align="center">
 
-![Oak's avatar](avatar-idle-v3.gif)
+![Oak's avatar](avatar-idle-v2.gif)
 
 </div>
 
