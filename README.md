@@ -19,7 +19,7 @@
 
 ### Featured Builds
 
-🪬**VisionAssist** — Wearable Assistive Navigation Device · *Infineon collaboration* · Mar–Jun 2026
+:hamsa:**VisionAssist** — Wearable Assistive Navigation Device · *Infineon collaboration* · Mar–Jun 2026
 
 Head-mounted obstacle detection for visually impaired users, built with a 5-person team. Flask MJPEG live-feed pipeline with real-time TTS alerts, running YOLOv8n on-device at ~3–5 FPS on a Raspberry Pi 5 with an Arducam V3.
 
@@ -29,7 +29,7 @@ Evaluated Infineon's XENSIV 60GHz radar for depth, determined it wouldn't ship i
 
 ---
 
-👁️‍🗨️**Lookout** — AI-Agent Event Discovery · UC Berkeley AI Hackathon · Jun 2026
+:eye-in-speech-bubble:**Lookout** — AI-Agent Event Discovery · UC Berkeley AI Hackathon · Jun 2026
 
 Solo 24-hour build. A watcher that monitors the live web for opportunities described in plain English, then runs a five-agent pipeline to act on a match rather than just alerting: Scout → Fit Judge → Strategist → Drafter → Critic.
 
@@ -39,7 +39,7 @@ The fit judge's relevance model retrains during the session on live thumbs up/do
 
 ---
 
-🎄**[Huffman-Encoding-Algorithm](https://github.com/Mr-Shine09/Huffman-Encoding-Algorithm)** — C++ honors project implementing the full compression path across a Hash Table, Sorted Linked List, and Binary Tree, with an interactive web demo.
+:christmas_tree:**[Huffman-Encoding-Algorithm](https://github.com/Mr-Shine09/Huffman-Encoding-Algorithm)** — C++ honors project implementing the full compression path across a Hash Table, Sorted Linked List, and Binary Tree, with an interactive web demo.
 
 `C++` `STL`
 
